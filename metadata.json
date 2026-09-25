@@ -1,0 +1,6 @@
+{
+  "name": "Easy Code",
+  "description": "Easy Code - Visual code editor and live web runner for Android with extension app import, live web runner, and integrated dev tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
